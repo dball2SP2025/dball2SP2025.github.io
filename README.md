@@ -1,5 +1,5 @@
 # About Me
- | ### **David Ball** :cowboy::+1: - [_dball2@my.waketech.edu_](mailto:dball2@my.waketech.edu)
+### **David Ball** - [_dball2@my.waketech.edu_](mailto:dball2@my.waketech.edu) :cowboy_hat_face::+1:
 
 ## My Interests
 * **Family** - I have a beautiful wife and two daughters currently in college, with whom I enjoy spending time outdoors or going to the theater at DPAC.
