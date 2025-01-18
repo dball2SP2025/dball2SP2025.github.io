@@ -1,5 +1,5 @@
 # About Me
-#### **David Ball** - [_dball2@my.waketech.edu_](mailto:dball2@my.waketech.edu)
+ | ### **David Ball** :cowboy::+1: - [_dball2@my.waketech.edu_](mailto:dball2@my.waketech.edu)
 
 ## My Interests
 * **Family** - I have a beautiful wife and two daughters currently in college, with whom I enjoy spending time outdoors or going to the theater at DPAC.
@@ -11,4 +11,4 @@
 - [Domain Turnpike](domainturnpike.com): This is my domain name and web hosting reseller website. Check it out if you need domains or hosting!
 - [Domain Reseller Accounts](domainreselleraccounts.com): Check this out if you are interested in having your own domain name and hosting reseller account!
 - [Invest Online Real Estate](investonlinerealestate.com): My blog for entrepreneurs and aspiring investors.
-- [My WTCC GitHub Repository](dball2SP2025.github.io): Here you can find my GitHub repository for WTCC. This repository will hold assignments for CTI110
+- [GitHub Repository](dball2SP2025.github.io): Here you can find my GitHub repository for WTCC. This repository will hold assignments for CTI110
