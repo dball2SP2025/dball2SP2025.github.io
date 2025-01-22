@@ -43,9 +43,9 @@ erDiagram
 
 ### Relationships
 - CUSTOMER -> SALE: This relationship represents a customer creating a sale by buying 1 or more pairs of shoes.
-    _This supports business operations by providing a means to understand who is purchasing the products._
+    _This supports business operations, providing a means to understand who is purchasing the products._
 - SALE -> PRODUCT: This represents the products that the customer is buying in each transaction.
-   **_This supports business operations by providing a means to understand who is purchasing the products.**
+   _This supports business operations, allowing products to be sold._
 - INVENTORY -> PRODUCT: This represents the store inventory by associating each product with a quantity.
-   ***_This supports business operations by providing a means to understand who is purchasing the products.***
+   _This supports business operations, allowing us to understand how many of each of the products we have available._
 
