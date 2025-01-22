@@ -1,11 +1,25 @@
 ```mermaid
+---
+title: Nike Store
+---
 erDiagram
-PRODUCT {
-}
-CUSTOMER {
-}
-SALE {
-}
-INVENTORY {
-}
+
+    CUSTOMER {
+        string name
+        int custID
+    }
+
+    PRODUCT {
+    }
+
+    SALE {
+    }
+
+    INVENTORY {
+    }
+
+    CUSTOMER ||--o{ SALE : creates
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+    SALE ||--|{ PRODUCT : contains
+    INVENTORY ||--o{ PRODUCT : contains
 ```
