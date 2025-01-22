@@ -10,6 +10,7 @@ erDiagram
         string modelName
         string color
         string size
+        float pricePerUnit
     }
 
     CUSTOMER {
@@ -23,9 +24,9 @@ erDiagram
     }
 
     INVENTORY {
-        int productID PK, FK
+        int inventoryID PK
+        int productID FK
         int quantity
-        float pricePerUnit
     }
 
     CUSTOMER ||--o{ SALE : creates
@@ -35,10 +36,12 @@ erDiagram
 ```
 
 ### Entities
-- PRODUCT:
-- CUSTOMER:
-- SALE:
-- INVENTORY:
+- PRODUCT: This represents a pair of Nike shoes of a particular model, size, and color.
+- CUSTOMER: This represents a customer that purchases shoes from the Nike store.
+- SALE: This represents a purchase of 1 or more pairs of Nike shoes by a customer.
+- INVENTORY: This represents the quantity available for each product.
 
 ### Relationships
-- CUSTOMER -> SALE:
+- CUSTOMER -> SALE: This is a customer creating a sale by buying 1 or more pairs of shoes.
+- SALE -> PRODUCT: This represents the products that the customer is buying in each transaction.
+- INVENTORY -> PRODUCT: This represents the store inventory by associating each product with a quantity.
