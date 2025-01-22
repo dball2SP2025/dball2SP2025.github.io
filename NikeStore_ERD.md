@@ -1,25 +1,35 @@
 ```mermaid
+
 ---
 title: Nike Store
 ---
-erDiagram
 
-    CUSTOMER {
-        string name
-        int custID
+erDiagram
+    PRODUCT {
+        int productID PK
+        string modelName
+        string color
+        string size
     }
 
-    PRODUCT {
+    CUSTOMER {
+        int custID PK
+        string name
     }
 
     SALE {
+        int txID PK
+
     }
 
     INVENTORY {
+        int productID PK
+        int quantity
+        float pricePerUnit
     }
 
     CUSTOMER ||--o{ SALE : creates
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
     SALE ||--|{ PRODUCT : contains
     INVENTORY ||--o{ PRODUCT : contains
+
 ```
