@@ -33,3 +33,12 @@ erDiagram
     INVENTORY ||--o{ PRODUCT : contains
 
 ```
+
+### Entities
+- PRODUCT:
+- CUSTOMER:
+- SALE:
+- INVENTORY:
+
+### Relationships
+- CUSTOMER -> SALE:
