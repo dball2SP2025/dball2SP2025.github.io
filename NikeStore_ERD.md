@@ -19,11 +19,11 @@ erDiagram
 
     SALE {
         int txID PK
-
+        int customer FK
     }
 
     INVENTORY {
-        int productID PK
+        int productID PK, FK
         int quantity
         float pricePerUnit
     }
