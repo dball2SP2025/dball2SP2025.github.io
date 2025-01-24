@@ -8,7 +8,7 @@
 * **Learning** - I enjoy learning about _all kinds of things_, from work or school related things to just about anything that sounds interesting. 
 
 ## My Websites
-- [Domain Turnpike](domainturnpike.com): This is my domain name and web hosting reseller website. Check it out if you need domains or hosting!
-- [Domain Reseller Accounts](domainreselleraccounts.com): Check this out if you are interested in having your own domain name and hosting reseller account!
-- [Invest Online Real Estate](investonlinerealestate.com): My blog for entrepreneurs and aspiring investors.
-- [GitHub Repository](dball2SP2025.github.io): Here you can find my GitHub repository for WTCC. This repository will hold assignments for CTI110
+- [Domain Turnpike](https://domainturnpike.com): This is my domain name and web hosting reseller website. Check it out if you need domains or hosting!
+- [Domain Reseller Accounts](https://domainreselleraccounts.com): Check this out if you are interested in having your own domain name and hosting reseller account!
+- [Invest Online Real Estate](https://investonlinerealestate.com): My blog for entrepreneurs and aspiring investors.
+- [GitHub Repository](https://dball2SP2025.github.io): Here you can find my GitHub repository for WTCC. This repository will hold assignments for CTI110
